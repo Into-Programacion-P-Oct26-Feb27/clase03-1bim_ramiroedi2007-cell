@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejemplo03;
-
+// hola UwU
 /**
  *
  * @author reroes
@@ -16,7 +16,8 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Tipos de dato en Java
-        
+        // Este es mi comentario
+        // Este es otro comentario 
         // Tipos de dato en Java
 
         // Tipo de datos Entero

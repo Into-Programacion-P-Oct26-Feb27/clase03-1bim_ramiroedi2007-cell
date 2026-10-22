@@ -17,17 +17,17 @@ public class Ejemplo04 {
     public static void main(String[] args) {
         // Manejo de operadores y expresiones en
         // lenguaje de alto nivel.
-        System.out.println("----------------");
+        System.out.println("Suma de dos numeros enteros");
         int variable = 10 + 10;
         System.out.println(variable);
         
         
-        System.out.println("----------------");
+        System.out.println("Multiplicacion de dos numeros");
         int variable2 = 10 * 10;
         System.out.println(variable2);
         
         
-        System.out.println("----------------");
+        System.out.println("Multiplicacion de dos numeros enteros");
         double variable3 = 10.2 * 10.9;
         System.out.println(variable3);
         
